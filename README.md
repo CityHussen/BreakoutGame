@@ -1,5 +1,6 @@
 ## Breakout Game ##
 Classic arcade-style game where players control a paddle to bounce a ball and break blocks.
+
 **Key Features & Tasks:**
 - Paddle movement via mouse input and keyboard
 - Collision detection for ball and blocks
