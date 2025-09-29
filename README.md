@@ -6,4 +6,5 @@ Key Features & Tasks:
 - Score tracking, game states, and high score entry
 - Configurable game settings
 - Future enhancements: particle effects, sound, and improved graphics
+
 Outcome: Players can experience a full Breakout game simulation, enhancing understanding of game logic and event-driven programming in Python.
